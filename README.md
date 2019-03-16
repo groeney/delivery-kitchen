@@ -10,6 +10,7 @@
 ### Run
 
     python main.py
+Note that I have provided some data files in `./data`. Check these out to change the order data thrown thru the system.
 
 ### Test
 
