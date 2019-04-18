@@ -1,6 +1,6 @@
 import unittest
-import cloudkitchen
-from cloudkitchen import Order
+import src
+from src import Order
 
 
 class OrderTestCase(unittest.TestCase):

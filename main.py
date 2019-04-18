@@ -2,7 +2,7 @@ from random import expovariate, uniform
 from time import sleep, time
 from optparse import OptionParser
 from json import loads as json_loads
-from cloudkitchen import Kitchen
+from src import Kitchen
 import threading
 import logging
 

@@ -1,6 +1,6 @@
 from time import time
 from collections import namedtuple
-from cloudkitchen import Order, OrderStatus
+from src import Order, OrderStatus
 from queue import deque
 from typing import List, Tuple, Optional
 

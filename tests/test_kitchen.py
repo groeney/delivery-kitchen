@@ -1,7 +1,7 @@
 import unittest
 import random
-import cloudkitchen
-from cloudkitchen import Kitchen
+import src
+from src import Kitchen
 
 
 class KitchenTestCase(unittest.TestCase):
